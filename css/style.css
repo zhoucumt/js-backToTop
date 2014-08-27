@@ -1,0 +1,21 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.box{
+	width: 1190px;
+	margin: 0 auto;
+}
+.btn{
+	width: 40px;
+	height: 40px;
+	position: fixed;
+	display: none;
+	margin-left: 610px;
+	background: url(../images/btn.png) no-repeat left top;
+	left: 50%;
+	bottom: 30px;
+}
+.btn:hover{
+	background: url(../images/btn.png) no-repeat left -40px;
+}
