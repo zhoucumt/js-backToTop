@@ -1,1 +1,1 @@
-ff
+原生js实现，主要用了定时器，window.onload,window.onscroll等知识
